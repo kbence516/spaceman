@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: e8cfb632bd863044db9ca9ef525489fe
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: Pickup Icon - Shield Generator - Invincibility Shield_Frame_0
+    originalName: 
+    pivot: {x: 0.5, y: -0.06666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 32
+      height: 30
+    spriteID: 29870111da5307648a427eb3c49898ff
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: Pickup Icon - Shield Generator - Invincibility Shield_Frame_1
+    originalName: 
+    pivot: {x: 0.5, y: -0.06666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 42
+      width: 32
+      height: 30
+    spriteID: 50e2da75948f4da4aad68a031a37324d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 42}
+  - name: Pickup Icon - Shield Generator - Invincibility Shield_Frame_2
+    originalName: 
+    pivot: {x: 0.5, y: -0.06666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 80
+      width: 32
+      height: 30
+    spriteID: 558d953ebc65a7c4e815c0caf5d529de
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 80}
+  - name: Pickup Icon - Shield Generator - Invincibility Shield_Frame_3
+    originalName: 
+    pivot: {x: 0.5, y: -0.06666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 118
+      width: 32
+      height: 30
+    spriteID: 7cdd81269db7d094799624b6758132f7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 118}
+  - name: Pickup Icon - Shield Generator - Invincibility Shield_Frame_4
+    originalName: 
+    pivot: {x: 0.5, y: -0.06666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 156
+      width: 32
+      height: 30
+    spriteID: befa56478702ed4469d2435503ffac98
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 156}
+  - name: Pickup Icon - Shield Generator - Invincibility Shield_Frame_5
+    originalName: 
+    pivot: {x: 0.5, y: -0.06666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 194
+      width: 32
+      height: 30
+    spriteID: 468e5a2963644ed4493ab9baa98fc2df
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 194}
+  - name: Pickup Icon - Shield Generator - Invincibility Shield_Frame_6
+    originalName: 
+    pivot: {x: 0.5, y: -0.06666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 44
+      y: 4
+      width: 32
+      height: 30
+    spriteID: bdd409968b2fb3a498b1914b91c7c1d6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 44, y: 4}
+  - name: Pickup Icon - Shield Generator - Invincibility Shield_Frame_7
+    originalName: 
+    pivot: {x: 0.5, y: -0.06666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 44
+      y: 42
+      width: 32
+      height: 30
+    spriteID: b6f006552a7ec62469325e2f5db52a75
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 44, y: 42}
+  - name: Pickup Icon - Shield Generator - Invincibility Shield_Frame_8
+    originalName: 
+    pivot: {x: 0.5, y: -0.06666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 44
+      y: 80
+      width: 32
+      height: 30
+    spriteID: 52026e19d2865f24ba9316c5b0fed0d6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 44, y: 80}
+  - name: Pickup Icon - Shield Generator - Invincibility Shield_Frame_9
+    originalName: 
+    pivot: {x: 0.5, y: -0.06666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 44
+      y: 118
+      width: 32
+      height: 30
+    spriteID: 60b82d7a9052b704e9d643549c9c5ab2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 44, y: 118}
+  - name: Pickup Icon - Shield Generator - Invincibility Shield_Frame_10
+    originalName: 
+    pivot: {x: 0.5, y: -0.06666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 44
+      y: 156
+      width: 32
+      height: 30
+    spriteID: ec4fbce855309fe4cac614a426d760c0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 44, y: 156}
+  - name: Pickup Icon - Shield Generator - Invincibility Shield_Frame_11
+    originalName: 
+    pivot: {x: 0.5, y: -0.06666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 44
+      y: 194
+      width: 32
+      height: 30
+    spriteID: d3f72bce0ce9f6642b3290436320e9f7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 44, y: 194}
+  - name: Pickup Icon - Shield Generator - Invincibility Shield_Frame_12
+    originalName: 
+    pivot: {x: 0.5, y: -0.06666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 84
+      y: 4
+      width: 32
+      height: 30
+    spriteID: a200dfa61edb85b4394664233f5afbb8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 84, y: 4}
+  - name: Pickup Icon - Shield Generator - Invincibility Shield_Frame_13
+    originalName: 
+    pivot: {x: 0.5, y: -0.06666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 84
+      y: 42
+      width: 32
+      height: 30
+    spriteID: b4a32d9ea1b8b7c41adec4c4678a3d76
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 84, y: 42}
+  - name: Pickup Icon - Shield Generator - Invincibility Shield_Frame_14
+    originalName: 
+    pivot: {x: 0.5, y: -0.06666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 84
+      y: 80
+      width: 32
+      height: 30
+    spriteID: bb243ae1c51d58b4a890437aa99b3681
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 84, y: 80}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: -1817088549
+    name: Pickup Icon - Shield Generator - Invincibility Shield
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Pickup Icon - Shield Generator - Invincibility Shield_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 0
+        y: 2
+        width: 32
+        height: 30
+      spriteId: 29870111da5307648a427eb3c49898ff
+    - name: Pickup Icon - Shield Generator - Invincibility Shield_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 0
+        y: 2
+        width: 32
+        height: 30
+      spriteId: 50e2da75948f4da4aad68a031a37324d
+    - name: Pickup Icon - Shield Generator - Invincibility Shield_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 0
+        y: 2
+        width: 32
+        height: 30
+      spriteId: 558d953ebc65a7c4e815c0caf5d529de
+    - name: Pickup Icon - Shield Generator - Invincibility Shield_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 0
+        y: 2
+        width: 32
+        height: 30
+      spriteId: 7cdd81269db7d094799624b6758132f7
+    - name: Pickup Icon - Shield Generator - Invincibility Shield_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 0
+        y: 2
+        width: 32
+        height: 30
+      spriteId: befa56478702ed4469d2435503ffac98
+    - name: Pickup Icon - Shield Generator - Invincibility Shield_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 0
+        y: 2
+        width: 32
+        height: 30
+      spriteId: 468e5a2963644ed4493ab9baa98fc2df
+    - name: Pickup Icon - Shield Generator - Invincibility Shield_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 0
+        y: 2
+        width: 32
+        height: 30
+      spriteId: bdd409968b2fb3a498b1914b91c7c1d6
+    - name: Pickup Icon - Shield Generator - Invincibility Shield_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 0
+        y: 2
+        width: 32
+        height: 30
+      spriteId: b6f006552a7ec62469325e2f5db52a75
+    - name: Pickup Icon - Shield Generator - Invincibility Shield_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 0
+        y: 2
+        width: 32
+        height: 30
+      spriteId: 52026e19d2865f24ba9316c5b0fed0d6
+    - name: Pickup Icon - Shield Generator - Invincibility Shield_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 0
+        y: 2
+        width: 32
+        height: 30
+      spriteId: 60b82d7a9052b704e9d643549c9c5ab2
+    - name: Pickup Icon - Shield Generator - Invincibility Shield_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 0
+        y: 2
+        width: 32
+        height: 30
+      spriteId: ec4fbce855309fe4cac614a426d760c0
+    - name: Pickup Icon - Shield Generator - Invincibility Shield_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 0
+        y: 2
+        width: 32
+        height: 30
+      spriteId: d3f72bce0ce9f6642b3290436320e9f7
+    - name: Pickup Icon - Shield Generator - Invincibility Shield_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 0
+        y: 2
+        width: 32
+        height: 30
+      spriteId: a200dfa61edb85b4394664233f5afbb8
+    - name: Pickup Icon - Shield Generator - Invincibility Shield_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 0
+        y: 2
+        width: 32
+        height: 30
+      spriteId: b4a32d9ea1b8b7c41adec4c4678a3d76
+    - name: Pickup Icon - Shield Generator - Invincibility Shield_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 0
+        y: 2
+        width: 32
+        height: 30
+      spriteId: bb243ae1c51d58b4a890437aa99b3681
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 32, y: 32}
